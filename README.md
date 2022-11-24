@@ -10,3 +10,8 @@ G's課題：
 https://moca220.sakura.ne.jp/jyanken/
 
 制作期間：約1日  
+
+
+じゃんけんアプリ応用の制作物はこちら
+https://moca220.sakura.ne.jp/pokemon/
+git：https://github.com/one10mi3/Pokemon
