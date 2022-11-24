@@ -7,6 +7,6 @@ G's課題：
 * 勝敗を残せるようにした
 
 
-https://moca220.sakura.ne.jp/html_nozawa_18/
+https://moca220.sakura.ne.jp/jyanken/
 
 制作期間：約1日  
